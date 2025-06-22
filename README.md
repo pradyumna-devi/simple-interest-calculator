@@ -2,7 +2,7 @@
 
 This is a Bash script that calculates simple interest using:
 
-**Formula:** (P × R × T) / 100
+**Formula:** (P × R × T)/ 100
 
 ## How to Run
 
